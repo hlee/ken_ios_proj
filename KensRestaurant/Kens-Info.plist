@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>ApplicationApiRootUrl</key>
-	<string>http://localhost:5000</string>
+	<string>http://menu9.herokuapp.com</string>
 	<key>LSApplicationCategoryType</key>
 	<string></string>
 	<key>CFBundleDevelopmentRegion</key>
